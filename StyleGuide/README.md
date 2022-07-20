@@ -22,4 +22,5 @@ StyleGuide
 
 ### It is a simple style guide for HTML/CSS. 
 ### To get info about color hover on any colored boxes.
-### This is not responsive webpage yet.
+### This is not responsive webpage.
+2020
